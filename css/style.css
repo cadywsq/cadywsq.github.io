@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
 	margin:0;
-	font-family: 'Roboto Condensed';
+	font-family: 'Roboto';
 	background: #fff;
 }
 body a{
@@ -20,7 +20,7 @@ body a{
 h1,h2,h3,h4,h5,h6{
 	margin:0;
 	/*font-family: 'Overlock',cursive;*/
-	font-family: "Roboto Condensed";
+	font-family: "Roboto";
 }
 p{
 	margin:0;
@@ -130,7 +130,7 @@ ul.nav.navbar li a {
     color: #fff;
     padding: 1em 2em;
     font-size: 1.25em;
-    font-family: "Roboto Condensed";
+    font-family: "Roboto";
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
     color: #008B8B;
